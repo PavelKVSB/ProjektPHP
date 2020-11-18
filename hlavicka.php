@@ -40,7 +40,7 @@ if (isset($titulek)) {
         <a class="nav-link" href="index.php">Formulář<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="vysledky.php">Výsledky</a>
+        <a class="nav-link" href="vysledky.php">BMI Vypočet</a>
       </li>
     </ul>
   </div>
