@@ -1,6 +1,6 @@
 ﻿<?php
 
-$title = "Výsledek BMI";
+$title = "Zmena provedena Katerinou";
 include "dbCon.php";
 include "hlavicka.php"
 
